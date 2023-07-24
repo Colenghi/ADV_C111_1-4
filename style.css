@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+
+.copy-right-footer{
+    position:fixed;
+    color:white;
+    bottom:10;
+    width: 100%;
+    background-image: linear-gradient(to right top, grey, rgba(21, 1, 1, 0.891), rgba(21, 1, 1, 0.666));
+    line-height: 3;
+    text-align: right;
+    box-shadow:4px 3px 5px rgb(21, 1, 1);
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    height:8%;
+}
